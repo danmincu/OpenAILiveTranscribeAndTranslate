@@ -9,7 +9,7 @@ from langdetect import detect, detect_langs
 
 # Set OpenAI API key
 
-OPENAI_API_KEY = 'sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+OPENAI_API_KEY = 'sk-xxxx'
 
 # Audio settings
 
